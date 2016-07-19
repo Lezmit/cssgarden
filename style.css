@@ -11,9 +11,9 @@ body{
 	text-align: center;
 	color:white;
 	-webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
 }
 /*--------------------Section----------------*/
 /*-----header-------*/
@@ -21,14 +21,13 @@ header h1{
 	font-size: 60px;
 	text-align: center;
 	padding-top: 300px;
-	
 }
 header h2{
 	font-size: 30px;
 	padding-bottom: 300px;
 }
 .summary {
- 	background: black;
+	background: black;
 	color: white;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -52,7 +51,6 @@ header h2{
 	padding: 2px;
 	background-color: black;
 }
-
 .preamble{
 	text-align: center;
 	background-color: transparent;
@@ -61,7 +59,6 @@ header h2{
 .preamble h3{
 	font-size: 35px;
 }
-/*------------------cierre Section------------*/
 /* -----------Inicio Main---------------------*/
 .main{
 	background-color: white;
@@ -82,12 +79,10 @@ header h2{
 	color:red;
 }
 /*---------cierre de main------------*/
-
 /*-------------------footer--------------------*/
-
  footer {
- 	color: red;
- 	width: 100%;
+	color: red;
+	width: 100%;
 	padding: 50px; 
 	font-size: 25px;
  }
@@ -96,9 +91,7 @@ footer a {
 }
 footer a:hover {
 	color:black;
-
 }
-
 /*---------------------Aside----------------*/
 aside{
 	background-color: black;
@@ -106,58 +99,57 @@ aside{
 }
 aside h3 {
 	font-size: 30px;
-    padding: 50px 50px;
+	padding: 50px 50px;
 }
 /*----------------design-selection------------*/
 #design-selection ul li{
-    height: 40px;
+	height: 40px;
 	padding-right: 10px;
 	list-style-type:none;
 }
 #design-selection li a{
-    color: #fff;
-    text-decoration: none;
+	color: #fff;
+	text-decoration: none;
 }
 #design-selection ul li:hover{
-    background: red;
-    border-left: 4px solid #fff;
-    font-weight: bolder;
-    font-size: 18px;
+	background: red;
+	border-left: 4px solid #fff;
+	font-weight: bolder;
+	font-size: 18px;
 }
 /*-----------design-archives----------------*/
-
 #design-archives ul li{
-    height: 40px;
+	height: 40px;
 	list-style-type:none;
 }
 #design-archives li a{
-    color: #fff;
-    text-decoration: none;
-   }
+	color: #fff;
+	text-decoration: none;
+}
 #design-archives ul li a:hover{
-    background: red;
-    font-size: 18px;
+	background: red;
+	font-size: 18px;
 }
 /*------------zen-resources-------------------*/
 
 .zen-resources {
-background-color: transparent;
+	background-color: transparent;
 }
 #zen-resources ul li{
-    height: 40px;
+	height: 40px;
 	padding-right: 30px;
 	list-style-type:none;
 	display: inline-block;
 	float: center;
 }
 #zen-resources li a{
-    color: #fff;
-    text-decoration: none;
-   }
+	color: #fff;
+	text-decoration: none;
+}
 #zen-resources ul li a:hover{
-    background: red;
-    font-size: 18px
-
+	background: red;
+	font-size: 18px
+}
 
 
 
